@@ -1,2 +1,2 @@
 # SIRT6-as-an-aging-marker
-Differential expression gene analysis across species 
+Differential gene expression analysis across species
